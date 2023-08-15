@@ -13,7 +13,7 @@ function App() {
       <Container className="md-4">
         <Routes>
         
-          <Route path="/store" element={<Store/>}/>
+          <Route path="/" element={<Store/>}/>
         </Routes>
 
       </Container>
